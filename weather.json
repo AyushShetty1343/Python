@@ -1,0 +1,7 @@
+{
+    "main": {
+        "temp": 32,
+        "humidity": 50,
+        "condition": "sunny"
+    }
+}
